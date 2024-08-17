@@ -1,4 +1,4 @@
-![gambar5](folder/0heker.jpeg)
+![gambar5](folder/Screenshot_2024-08-17-14-31-10-76.jpg)
 ```
 Codex By ./FkzsecXploit.ID
 Leviathan404TeamCyber | Ton618
@@ -21,7 +21,7 @@ _A powerful Wordpress Login Checker tool that checks WP file manager, plugin ins
 
 ## Images
 ### Main Menu
-![gambar1](folder/1.jpg)
+![gambar1](folder/Screenshot_2024-08-17-14-27-20-16.jpg)
 ### Processing Check
 ![gambar2](folder/Screenshot_2024-08-17-13-07-52-78.jpg)
 ### Results Checking
