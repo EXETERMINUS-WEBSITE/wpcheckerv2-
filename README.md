@@ -35,7 +35,7 @@ $ pkg update
 $ pkg upgrade
 $ pkg install python3
 $ pkg install git
-$ git clone https://github.com/EXETERMINUS-WEBSITE/wpcheckerv1.git
+$ git clone https://github.com/EXETERMINUS-WEBSITE/wpcheckerv2-.git
 $ cd wpcheckerv2
 $ bash startup.sh
 $ python3 main.py
@@ -43,7 +43,7 @@ $ python3 main.py
 
 ### Kali Linux / Ubuntu 
 ```
-~# git clone https://github.com/EXETERMINUS-WEBSITE/wpcheckerv1.git
+~# git clone https://github.com/EXETERMINUS-WEBSITE/wpcheckerv2-.git
 ~# cd wpcheckerv2
 ~# python3 main.py
 ```
